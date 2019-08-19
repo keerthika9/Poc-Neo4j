@@ -1,6 +1,6 @@
-Author- Sushree Swagatika Mishra
 
-Project Name- spring boot Neo4J dockerized 
+
+Project Name- spring boot neo4j
 
 
 
